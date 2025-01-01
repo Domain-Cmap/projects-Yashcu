@@ -1,5 +1,9 @@
 # Happiness Tracker App by Yash Garg (22BCS13420)
 
+[Demo: 
+https://happinesstracker.netlify.app/login
+](https://happinesstracker.netlify.app/)
+
 The **Happiness Tracker** is a web application that allows users to track their daily happiness levels, add notes, and view stats over time. This project features a user authentication system, happiness level tracking, and personalized daily quotes. The data is stored in **MongoDB Atlas** and the backend is built using **Node.js** with **Express**.
 
 ---
@@ -33,8 +37,3 @@ Before you begin, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [MongoDB Atlas Account](https://www.mongodb.com/cloud/atlas) (for the database)
 - [Git](https://git-scm.com/)
-
-
-[Demo: 
-https://happinesstracker.netlify.app/login
-](https://happinesstracker.netlify.app/)
